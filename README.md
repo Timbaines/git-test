@@ -1,4 +1,4 @@
-# Test to verify local commits to Github
+## Test to verify local commits to Github
 
 ### git-test
 
